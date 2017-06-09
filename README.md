@@ -1,8 +1,12 @@
 # Image_Classification
 Unimodal(RGB) and Multimodal(RGB, depth) image classification using keras
 
-rgb_classification.py file:- unimodal classification
+# Dataset: (google it)
+Washington RGBD dataset
 
-rgd_d_classification.py file:- multi-modal classificaiton
+# files
+1. rgb_classification.py file:- unimodal classification
+2. rgd_d_classification.py file:- multi-modal classificaiton
 
-Note: will be updating with proper explanations soon
+# Note:
+will be updating with proper README FILE soon
